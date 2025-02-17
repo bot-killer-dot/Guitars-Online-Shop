@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/hamayun-cpu/Guitars-Online-Shop/f8746bb61fcd5d983ddf98b49a3321b9e410f394/main.html)
+[Live Demo Link](https://rawcdn.githack.com/bot-killer-dot/Guitars-Online-Shop/f8746bb61fcd5d983ddf98b49a3321b9e410f394/main.html)
 
 ## Getting Started
 
@@ -21,11 +21,10 @@ The project is public.
 
 ## Author
 
-👤 **Hamayun**
+👤 **Ameer Farooq**
 
-- Github: [@githubhandle](https://github.com/hamayun-cpu)
-- Twitter: [@twitterhandle](https://twitter.com/hamayun_waheed?s=09&fbclid=IwAR0rfO9cMDDeCX8LfXf4cCNQDrL4LpJ02Q2csWhcT-VtMQ0Cy9EgTB4Wq8E)
-- Linkedin: [linkedin](https://www.linkedin.com/in/hamayun-waheed/)
+- Github: [githubhandle](https://github.com/bot-killer-dot)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ameer-farooq1/)
 
 ## 🤝 Contributing
 
